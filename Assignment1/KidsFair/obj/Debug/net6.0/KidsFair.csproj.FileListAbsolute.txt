@@ -1,0 +1,15 @@
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfoInputs.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfo.cs
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.exe
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.deps.json
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.runtimeconfig.json
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.dll
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\bin\Debug\net6.0\ref\KidsFair.dll
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.pdb
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.dll
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\ref\KidsFair.dll
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.pdb
+C:\Users\Palm\Desktop\Programming C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.genruntimeconfig.cache
