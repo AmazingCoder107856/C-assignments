@@ -1,0 +1,24 @@
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.AboutBox.resources
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.MainForm.resources
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.Properties.Resources.resources
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\bin\Debug\About - ToDo Reminder.exe.config
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\bin\Debug\About - ToDo Reminder.exe
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\bin\Debug\About - ToDo Reminder.pdb
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\About - ToDo Reminder.exe
+C:\Users\Palm\Desktop\Programming C#\ToDoReminder\Assignment6ABC\obj\Debug\About - ToDo Reminder.pdb
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\bin\Debug\About - ToDo Reminder.exe.config
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\bin\Debug\About - ToDo Reminder.exe
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\bin\Debug\About - ToDo Reminder.pdb
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.AboutBox.resources
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.MainForm.resources
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.Properties.Resources.resources
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\Assignment6ABC.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\About - ToDo Reminder.exe
+C:\Users\Palm\Desktop\Programming C#\Module6\ToDoReminder\Assignment6ABC\obj\Debug\About - ToDo Reminder.pdb
