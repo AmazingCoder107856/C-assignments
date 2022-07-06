@@ -1,0 +1,17 @@
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.LoginForm.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.Properties.Resources.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.CustomerForm.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.MainForm.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.EmployeeForm.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.RoomForm.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.ReservationsForm.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\Assignment7.AboutBox.resources
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\bin\Debug\About - 3G Hotel Booking app.exe.config
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\bin\Debug\About - 3G Hotel Booking app.exe
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\bin\Debug\About - 3G Hotel Booking app.pdb
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\About - 3G Hotel Booking app.exe
+C:\Users\Palm\Desktop\Programming C#\Hotel Booking Management\Assignment7\obj\Debug\About - 3G Hotel Booking app.pdb

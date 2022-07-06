@@ -1,0 +1,27 @@
+ReservationInfo_22
+1
+2
+1000
+Gabriel Svensson
+2022
+5
+26
+2022
+5
+27
+2
+2
+1
+Twin_Bedded_Room
+1001
+Lind Johansson
+2022
+5
+28
+2022
+5
+29
+1
+2
+1
+Double_Double_Room

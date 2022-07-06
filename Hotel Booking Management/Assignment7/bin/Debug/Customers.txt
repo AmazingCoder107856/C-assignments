@@ -1,0 +1,31 @@
+CustomerInfo_22
+1
+2
+1
+Passport
+95008650
+Gloria Palm
+40
+Female
+Infanterivägen 17
+291 35
+Kristianstad
+Sverige
++4644179702
++4676017012
+gloria.palm7810@gmail.com
+gloriasoliano@yahoo.com
+2
+National ID
+7426580
+Gabriel Svensson
+45
+Male
+Näsbychaussen 60A
+291 36
+Kristianstad
+Sverige
++4644145890
++4676803456
+gabrielsvensson@hotmail.com
+svenssongabriel@yahoo.com
