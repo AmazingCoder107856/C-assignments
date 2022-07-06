@@ -1,0 +1,36 @@
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\bin\Debug\AssignmentAB.exe.config
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\bin\Debug\AssignmentAB.exe
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\bin\Debug\AssignmentAB.pdb
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.FormMain.resources
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.Properties.Resources.resources
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.exe
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.pdb
+C:\Users\Palm\Desktop\Programming C#\AssignmentAB\AssignmentAB\obj\Debug\AssignmentAB.FormIngredients.resources
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\bin\Debug\AssignmentAB.exe.config
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\bin\Debug\AssignmentAB.exe
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\bin\Debug\AssignmentAB.pdb
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.FormIngredients.resources
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.FormMain.resources
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.Properties.Resources.resources
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.exe
+C:\Users\Palm\Desktop\Programming C#\Assignment4AB\AssignmentAB\obj\Debug\AssignmentAB.pdb
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\bin\Debug\AssignmentAB.exe.config
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\bin\Debug\AssignmentAB.exe
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\bin\Debug\AssignmentAB.pdb
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.FormIngredients.resources
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.FormMain.resources
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.Properties.Resources.resources
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.exe
+C:\Users\Palm\Desktop\Assignment4ABC\AssignmentAB\obj\Debug\AssignmentAB.pdb
