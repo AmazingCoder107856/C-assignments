@@ -1,0 +1,11 @@
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI_Calculator.MainForm.resources
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Palm\Desktop\Programming C#\Assignment3\BMI Calculator\obj\Debug\BMI Calculator.pdb
